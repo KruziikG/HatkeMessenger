@@ -2,6 +2,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](http://www.apache.org/licenses/LICENSE-2.0)
 [![License](https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg)](https://github.com/webianks/HatkeMessenger/blob/master/LICENCE)
 
+[!Travis]()
+[![Build Status](https://travis-ci.org/KruziikG/HatkeMessenger.svg?branch=master)](https://travis-ci.org/KruziikG/HatkeMessenger)
+
+
+
 # HatkeMessenger
 SMS App utilising some the sms apis of Android.
 
